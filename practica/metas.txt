@@ -1,0 +1,8 @@
+ 1:Mejorar mis calificaciones y hábitos de estudio
+ 2:Hacer ejercicio regularmente y cuidar mi salud
+ 3:Ahorrar dinero y aprender a administrarlo mejor
+ 4:Aprender una nueva habilidad o desarrollar un talento
+ 5:Pasar más tiempo de calidad con mi familia y amigos
+
+
+

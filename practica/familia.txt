@@ -1,0 +1,5 @@
+1: mama
+2:hermano
+3:apa
+4:hermana
+5:yo

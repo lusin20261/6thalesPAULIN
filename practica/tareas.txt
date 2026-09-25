@@ -1,0 +1,5 @@
+1:Tender la cama al despertar
+2:Estudiar o repasar durante 30 minutos
+3:Hacer al menos 20 minutos de ejercicio
+4: Ordenar y limpiar mi espacio
+5:pasrme el God of War 3
