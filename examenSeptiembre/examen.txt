@@ -1,0 +1,14 @@
+el examen
+consiste
+en entrar a
+/home/lab
+luego entrar
+a alumnos
+i luego entramos 
+a nustro repo 
+luego creamos 
+una carpeta 
+llamado exameneSeptiembre
+y luego creamos una carpeta 
+llamado examen.txt
+      "FIN"
